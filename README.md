@@ -4,7 +4,6 @@ Submitted by: Linda Cai
 
 This web app: Small forum for people to discuss Riftbound, a trading card game. 
 
-Time spent: **X** hours spent in total
 
 ## Required Features
 
