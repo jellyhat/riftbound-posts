@@ -68,13 +68,9 @@ Here's a walkthrough of implemented user stories:
 
 ![Riftbound forum walkthrough](./riftbound.gif)
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2026 Linda Cai
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
